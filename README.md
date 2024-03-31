@@ -72,11 +72,15 @@ endmodule
 ```
 
 **RTL Schematic**
-![3 1](https://github.com/ArunmozhiVarmanT/HALF_ADDER_SUBTRACTOR/assets/144870523/e55374c6-77db-44bb-b5ee-434bf1cbcaee)
+![image](https://github.com/Mkumar262006/HALF_ADDER_SUBTRACTOR/assets/147139472/00239423-eee0-4945-a038-ea1eb1ccf6fe)
 
 
-**Output/TIMING Waveform**
-![3 2](https://github.com/ArunmozhiVarmanT/HALF_ADDER_SUBTRACTOR/assets/144870523/ae30d1f8-854b-4ccd-9660-6222b310bf08)
-![3 3](https://github.com/ArunmozhiVarmanT/HALF_ADDER_SUBTRACTOR/assets/144870523/2213cad1-b6d9-41f1-b859-db0f8ad6b2cd)
+
+
+**Output/TIMING Waveform**-
+![image](https://github.com/Mkumar262006/HALF_ADDER_SUBTRACTOR/assets/147139472/75f6e293-beb2-4a54-b34b-a6d310559dfd)
+![image](https://github.com/Mkumar262006/HALF_ADDER_SUBTRACTOR/assets/147139472/c6d350ea-dbbb-4af6-8088-4cf636e17118)
+
+
 
 **Result:**
