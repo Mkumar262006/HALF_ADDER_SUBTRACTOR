@@ -84,4 +84,5 @@ endmodule
 
 
 **Result:**
+
 Implementation of half adder and half subtractor is done successfully.
